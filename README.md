@@ -4,7 +4,7 @@
 An interactive Power BI dashboard designed to analyze sales performance, customer behavior, product contribution, and operational efficiency.
 
 ## Dashboard Preview
-!Screenshot (125).png
+![Sales Insights Dashboard](Screenshot%20%28125%29.png)
 
 ## Objectives
 - Monitor revenue trends over time
